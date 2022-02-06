@@ -1,2 +1,2 @@
 # flight-scraper
-Scrapes the web for flight prices, schedules, and fare codes.
+Scrapes the web for flight prices and details.
